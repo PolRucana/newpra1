@@ -1,6 +1,9 @@
 .commit2{
-    border: 1px solid red;
+    border: 1px dotted red;
 }
 .commit3{
     border: 1px solid black;
+}
+.commit4{
+    border: 1px solid rebeccapurple;
 }
