@@ -10,3 +10,6 @@
 .test1-2{
     border-radius: 20px;
 }
+.test1-4{
+    box-shadow: transparent;
+}
