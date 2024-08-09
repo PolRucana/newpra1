@@ -16,3 +16,6 @@
 .test1-1{
     background-image: initial;
 }
+.test1-3{
+    background-repeat: no-repeat;
+}
